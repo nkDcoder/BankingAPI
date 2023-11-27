@@ -1,6 +1,6 @@
 RUN WITH DOCKER
 ------------------------
-Run createDockerImage.bat for creating docker image
+Run createDockerImage.bat for creating docker image. 
 Run runBankApiDocker.bat for running the created image
 ------------------------
 
