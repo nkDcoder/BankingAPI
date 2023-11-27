@@ -29,6 +29,8 @@ Below are the API requirements implemented:
 
 
 Below are examples of actions you can perform with different endpoints:
+
+
 ==> Create a User
     Endpoint: POST /api/users
     Payload:
