@@ -1,2 +1,0 @@
-#Create docker Image
-docker build -t bankapi .
