@@ -1,12 +1,12 @@
 RUN WITH DOCKER
 ------------------------
-Run createDockerImage.bat for creating docker image. 
+Run createDockerImage.bat for creating docker image\n
 Run runBankApiDocker.bat for running the created image
 ------------------------
 
 OR RUN WITHOUT DOCKER
 ------------------------
-Run runBankApi_NoDocker.bat
+\nRun runBankApi_NoDocker.bat
 ------------------------
 
 Below are the API requirements implemented:
