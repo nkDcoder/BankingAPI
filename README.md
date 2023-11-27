@@ -169,3 +169,6 @@ Below are examples of actions you can perform with different endpoints:
       "balance": 100
     }
     Status Code: 200 OK
+
+On my windows the API was exposed to https://localhost:5000
+There is C# nunit restassured.net based BDD specflow test project for testing this api at https://github.com/nkDcoder/BankAPITests.git
